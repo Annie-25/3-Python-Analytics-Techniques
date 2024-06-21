@@ -1,2 +1,2 @@
-# Data-Analytics-Techniques-2
+# Python-Analytics-Techniques
 Demo repo
